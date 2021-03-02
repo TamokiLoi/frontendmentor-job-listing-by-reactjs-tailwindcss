@@ -38,7 +38,7 @@ function App() {
   return (
     <>
       <header className="primary-bg mb-8">
-        <img src="/images/bg-header-desktop.svg" alt="bg-image"
+        <img src="/images/bg-header-desktop.svg" alt="bg"
           className="inset-0 w-full h-32 object-cover object-center lg:w-full lg:h-full" />
       </header>
 
