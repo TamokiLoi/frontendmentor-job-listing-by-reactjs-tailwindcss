@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.primary-color {
+  color: hsl(180, 29%, 50%);
+}
+
+.light-color {
+  color: hsl(180, 52%, 96%);
+}
+
+.dark-color {
+  color: hsl(180, 14%, 20%);
+}
+
+.primary-bg {
+  background-color: hsl(180, 29%, 50%);
+}
+
+.light-bg {
+  background-color: hsl(180, 52%, 96%);
+}
+
+.dark-bg {
+  background-color: hsl(180, 14%, 20%);
+}
+
+.primary-border-left-color {
+  border-color: hsl(180, 29%, 50%);
+}
